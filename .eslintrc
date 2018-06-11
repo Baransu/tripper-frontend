@@ -1,0 +1,6 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["lodash-fp"],
+  "extends": ["react-app", "plugin:lodash-fp/recommended"],
+  "rules": {}
+}
